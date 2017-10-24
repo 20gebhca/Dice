@@ -96,7 +96,7 @@ class Die {
 
     dieran1=(int)(Math.random()*6+1);
     dietotal=dietotal+dieran1;
-    System.out.println(cubeX +" " + cubeY);
+    //System.out.println(cubeX +" " + cubeY);
   }
   //display total die text 
   void createtotal() {
